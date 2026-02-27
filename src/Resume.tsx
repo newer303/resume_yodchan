@@ -47,7 +47,7 @@ export default function Resume() {
         <aside className="sidebar">
           <section className="profile profile-card">
             <div id="res-avatar" className="avatar">
-              <img src="public/img-profile/Profile_Yodchan.jpg" loading="lazy" width="180" height="180" />
+              <img src="/img-profile/Profile_Yodchan.jpg" loading="lazy" width="180" height="180" />
             </div>
             <div style={{ textAlign: 'center' }}>
               <h3 id="profile-name" className="profile-name">Yodchan Suphaphan</h3>
